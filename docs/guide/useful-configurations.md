@@ -292,7 +292,7 @@ ChatLuna 默认使用的向量数据库。
 
 推荐所有国内用户开启该配置项配置代理。
 
-### isDebug
+### isLog
 
 - 类型: `boolean`
 - 默认值: `false`
